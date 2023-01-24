@@ -1,4 +1,10 @@
 # TUGAS QR SCANNER CODE 5 FUNGSI untuk memenuhi tugas akhir Mata Kuliah Pemrograman Mobile
+            Project QRCODE applikasi mobile dengan 5 fungsi scan :
+            a. JSON
+            b. WEB
+            c. PHONE
+            d. MAPS
+            e. EMAIL
 
             Nama          : Dwi Aditya Budi Listiawan
             Kelas         : TI.21.C2

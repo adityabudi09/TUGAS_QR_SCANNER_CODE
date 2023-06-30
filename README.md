@@ -9,7 +9,7 @@
             Nama          : Dwi Aditya Budi Listiawan
             Kelas         : TI.21.C2
             NIM           : 312110003
-            Mata Kuliah   : Pemrograman Mobile
+            Mata Kuliah   : Pemrograman Mobile 1
 
 
 
